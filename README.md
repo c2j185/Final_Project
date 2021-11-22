@@ -6,7 +6,7 @@ Here is a link to the document containing the information submitted for week 1 -
 
 ## Segment 2
 Here is the link to the group slides ...
-(https://docs.google.com/presentation/d/174Wp28Em-LvL4eIB6wW2fYWLx4WNs3CdaWgaAZGNP8o/edit?usp=sharing)
+(https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit?usp=sharing)
 
 
 ## Segment 3
