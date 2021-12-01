@@ -13,6 +13,7 @@ Google Slides presentation
 Tableau dashboard
 (link or video)
 
+
 ## Segment 4
 
 ## Project Outline
@@ -34,3 +35,4 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Tables for Machine Learning and Visualization in pg Admin4
 - Case severity risk analysis by State, Gender, and Age Group
 - Tableau dashboard displaying Machine Learning findings and interactive components using the Visualization dataset
+- Google Slides presentation detailing all portions of the analysis primarily using screenshot examples of the various stages
