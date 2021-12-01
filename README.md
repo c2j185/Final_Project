@@ -15,4 +15,4 @@ Tableau dashboard
 
 ## Segment 4
 
-Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
+## Project Outline
