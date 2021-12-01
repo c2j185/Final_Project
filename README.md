@@ -17,7 +17,7 @@ Tableau dashboard
 
 ## Project Outline
 ### Summary 
-- Analyze large dataset of ananymous patiend Covid-19 data provided by the CDC to determine metrics on severity of cases based on different criteria
+Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to determine metrics on severity of cases based on different criteria
 
 ### Questions To Be Anwered Via Machine Learning & Visualization
 1) Severity by State - Is there one part of the country that shows ‘more severity’ than the rest?
@@ -31,6 +31,6 @@ Tableau dashboard
 
 ### Deliverables
 - Cleaned and customized dataframes for both Machine Learning and Visualization exported via flat file (.csv)
-- Tables for tables Mahine Learning and Visualization in pg Admin4
+- Tables for Machine Learning and Visualization in pg Admin4
 - Case severity risk analysis by State, Gender, and Age Group
 - Tableau dashboard displaying Machine Learning findings and interactive components using the Visualization dataset
