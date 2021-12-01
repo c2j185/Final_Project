@@ -5,6 +5,9 @@ CREATE TABLE covid_ml (
 	sex varchar(7),
 	race varchar(40),
 	symptom_status varchar(12),
+	hosp_yn varchar(7),
+	icu_yn varchar(7),
+	death_yn varchar(7),
 	underlying_health_conditions varchar(3),
 	outcome varchar(6)
 );
