@@ -6,7 +6,7 @@
 https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit#slide=id.p
 
 
-## Segment 1 Deliverables
+## Segment 1
 Here is a link to the document containing the information submitted for week 1 - [Week 1 Deliverables] (https://github.com/c2j185/Final_Project/blob/main/Team%202%20Week%201%20Deliverable.pdf)
 
 
@@ -33,8 +33,8 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 4) Severity by Race - How do races compare when evaluating severity?
 
 ### Primary Responsibilities
-- Lisa Wagner - Machine Learning
-- Stacey Conley - Visualization
+- Lisa Wagner - Machine Learning, Visualization, Website
+- Stacey Conley - GITHUB, Visualization
 - Ben Shelburn - Database
 
 ### Deliverables
@@ -58,10 +58,10 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - The race with the most cases was generally white.
 
 ### Recommendation for future analysis
-- Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was positive.
+- Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was COVID positive.
 - Now that vaccines have been available, include the vaccine data.
 
 ### Anything the team would have done differently
-- Spend more time looking for a more accurate dataset
+- Spend more time looking for a more complete dataset
 - Research API requirements and limitations
 
