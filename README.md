@@ -63,7 +63,7 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - The race with the most cases was generally white.
 
 ### Recommendation for future analysis
-- Try to find data on secondary causes of death that may not have been caused by COVID, but was put as the cause because the person was COVID positive.
+- Try to find data on secondary causes of death that may not have been caused by COVID, but was put as the cause because the person was COVID positive at time of death.
 - Now that vaccines have been available, include the vaccine data.
 
 ### Anything the team would have done differently
