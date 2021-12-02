@@ -28,6 +28,8 @@ Tableau Dashboard
 ### Summary 
 Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to determine metrics on severity of cases based on different criteria
 
+![Data_Source_for_README.png](https://github.com/c2j185/Final_Project/blob/main/static/images/Data_Source_for_README.png)
+
 ### Questions To Be Anwered Via Machine Learning & Visualization
 1) Severity by State - Is there one part of the country that shows ‘more severity’ than the rest?
 2) Severity by Gender - Is one gender showing more severe cases than the other?
