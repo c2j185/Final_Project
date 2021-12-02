@@ -30,6 +30,7 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 1) Severity by State - Is there one part of the country that shows ‘more severity’ than the rest?
 2) Severity by Gender - Is one gender showing more severe cases than the other?
 3) Severity by Age Group - How do the age groups fair by severity?
+4) Severity by Race - How do races compare when evaluating severity?
 
 ### Primary Responsibilities
 - Lisa Wagner - Machine Learning
