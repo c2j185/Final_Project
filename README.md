@@ -11,12 +11,12 @@ Here is a link to the document containing the information submitted for week 1 -
 
 
 ## Segment 2
-Google Slides presentation
+Google Slides Presentation
 (https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit?usp=sharing)
 
 
 ## Segment 3
-Tableau dashboard
+Tableau Dashboard
 (https://c2j185.github.io/Final_Project)
 
 ![Dashboard_Image_for_README.png](https://github.com/c2j185/Final_Project/blob/main/static/images/Dashboard_Image_for_README.png)
