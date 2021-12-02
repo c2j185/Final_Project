@@ -1,5 +1,11 @@
 # Final_Project
 
+
+
+### Link to Presentation
+https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit#slide=id.p
+
+
 ## Segment 1 Deliverables
 Here is a link to the document containing the information submitted for week 1 - [Week 1 Deliverables] (https://github.com/c2j185/Final_Project/blob/main/Team%202%20Week%201%20Deliverable.pdf)
 
@@ -37,8 +43,18 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Tableau dashboard displaying Machine Learning findings and interactive components using the Visualization dataset
 - Google Slides presentation detailing all portions of the analysis primarily using screenshot examples of the various stages
 
-### Link to Presentation
-https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit#slide=id.p
+### Description of the data exploration and analysis phases of the project
+-Removed columns that would be be used during analysis and removed rows with missing values.
+-Added "outcome" column
+-Used Random Forest Model with no data balancing for machine learning
+
+![image](https://user-images.githubusercontent.com/86030200/144409098-3b087f4a-9536-4b19-abc5-9b99b8498746.png)
+
+### Results of Analysis
+-No single state or part of the country was hit “harder” by severity than any other.
+-The age group with the most cases was 18 - 49 years.
+-The gender with the most cases was generally female.
+-The race with the most cases was generally white.
 
 ### Recommendation for future analysis
 -Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was positive.
