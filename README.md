@@ -11,7 +11,7 @@ Google Slides presentation
 
 ## Segment 3
 Tableau dashboard
-(link or video)
+(https://c2j185.github.io/Final_Project)
 
 
 ## Segment 4
