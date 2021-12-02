@@ -19,6 +19,8 @@ Google Slides presentation
 Tableau dashboard
 (https://c2j185.github.io/Final_Project)
 
+![Dashboard_Image_for_README.png](https://github.com/c2j185/Final_Project/blob/main/static/images/Dashboard_Image_for_README.png)
+
 
 ## Segment 4
 
