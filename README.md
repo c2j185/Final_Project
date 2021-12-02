@@ -44,9 +44,9 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Google Slides presentation detailing all portions of the analysis primarily using screenshot examples of the various stages
 
 ### Description of the data exploration and analysis phases of the project
--Removed columns that would be be used during analysis and removed rows with missing values.
--Added "outcome" column
--Used Random Forest Model with no data balancing for machine learning
+- Removed columns that would be be used during analysis and removed rows with missing values.
+- Added "outcome" column
+- Used Random Forest Model with no data balancing for machine learning
 
 ![image](https://user-images.githubusercontent.com/86030200/144409098-3b087f4a-9536-4b19-abc5-9b99b8498746.png)
 
