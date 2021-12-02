@@ -36,3 +36,15 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Case severity risk analysis by State, Gender, and Age Group
 - Tableau dashboard displaying Machine Learning findings and interactive components using the Visualization dataset
 - Google Slides presentation detailing all portions of the analysis primarily using screenshot examples of the various stages
+
+### Link to Presentation
+https://docs.google.com/presentation/d/1zFRdjtbOxW_vMcC4ZCUpOz3KjfqbV778ngudOUq0ZsA/edit#slide=id.p
+
+### Recommendation for future analysis
+-Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was positive.
+-Now that vaccines have been available, include the vaccine data.
+
+### Anything the team would have done differently
+-Spend more time looking for a more accurate dataset
+-Research API requirements and limitations
+
