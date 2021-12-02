@@ -51,16 +51,16 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 ![image](https://user-images.githubusercontent.com/86030200/144409098-3b087f4a-9536-4b19-abc5-9b99b8498746.png)
 
 ### Results of Analysis
--No single state or part of the country was hit “harder” by severity than any other.
--The age group with the most cases was 18 - 49 years.
--The gender with the most cases was generally female.
--The race with the most cases was generally white.
+- No single state or part of the country was hit “harder” by severity than any other.
+- The age group with the most cases was 18 - 49 years.
+- The gender with the most cases was generally female.
+- The race with the most cases was generally white.
 
 ### Recommendation for future analysis
--Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was positive.
--Now that vaccines have been available, include the vaccine data.
+- Try to find data on secondary causes of death that may not have been cause by COVID, but was put as the cause because the person was positive.
+- Now that vaccines have been available, include the vaccine data.
 
 ### Anything the team would have done differently
--Spend more time looking for a more accurate dataset
--Research API requirements and limitations
+- Spend more time looking for a more accurate dataset
+- Research API requirements and limitations
 
