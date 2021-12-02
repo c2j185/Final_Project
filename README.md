@@ -51,8 +51,8 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 
 ### Description of the data exploration and analysis phases of the project
 - Removed columns that would be be used during analysis and removed rows with missing values.
-- Added "outcome" column
-- Used Random Forest Model with no data balancing for machine learning
+- Added "outcome" column.
+- Used Random Forest Model with no data balancing for machine learning.
 
 ![image](https://user-images.githubusercontent.com/86030200/144409098-3b087f4a-9536-4b19-abc5-9b99b8498746.png)
 
@@ -67,8 +67,8 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Now that vaccines have been available, include the vaccine data.
 
 ### Anything the team would have done differently
-- Spend more time looking for a more complete dataset
-- Research API requirements and limitations
+- Spend more time looking for a more complete dataset.
+- Research API requirements and limitations.
 
 
 Submitted 12-02-2021 by Stacey Conley, Ben Shelburn, Lisa K. Wagner
