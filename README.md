@@ -26,7 +26,8 @@ Tableau Dashboard
 
 ## Project Outline
 ### Summary 
-Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to determine metrics on severity of cases based on different criteria
+Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to determine metrics on severity of cases based on different criteria.
+(https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4)
 
 ![Data_Source_for_README.png](https://github.com/c2j185/Final_Project/blob/main/static/images/Data_Source_for_README.png)
 
