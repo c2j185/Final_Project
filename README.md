@@ -70,3 +70,5 @@ Analyze large dataset of anonymous patient Covid-19 data provided by the CDC to 
 - Spend more time looking for a more complete dataset
 - Research API requirements and limitations
 
+
+Submitted 12-02-2021 by Stacey Conley, Ben Shelburn, Lisa K. Wagner
